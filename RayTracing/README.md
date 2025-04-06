@@ -1,4 +1,4 @@
-# PA1 - Ray Tracer
+# PA1 - Ray Tracer Implementation with C++
 
 This project implements a basic ray tracer with:
 
